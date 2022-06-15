@@ -1,1 +1,1 @@
-# leonardotanzi-famous_cnn_from_scratch
+# famous_cnn_from_scratch
